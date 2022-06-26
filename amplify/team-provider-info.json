@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-testtweetapp-staging-60820-authRole",
+      "UnauthRoleArn": "arn:aws:iam::982726428550:role/amplify-testtweetapp-staging-60820-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::982726428550:role/amplify-testtweetapp-staging-60820-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-testtweetapp-staging-60820-deployment",
+      "UnauthRoleName": "amplify-testtweetapp-staging-60820-unauthRole",
+      "StackName": "amplify-testtweetapp-staging-60820",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:982726428550:stack/amplify-testtweetapp-staging-60820/36f8b1d0-f44d-11ec-a30d-0af902b3e14d",
+      "AmplifyAppId": "dl4xbcfx8f68h"
+    }
+  }
+}
